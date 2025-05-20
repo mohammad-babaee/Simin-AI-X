@@ -20,10 +20,15 @@ We provide **two installation scripts** to make setup **fast & effortless**:
 - 💎 **Ruby Users:** Use `setup.rb` for automatic gem installation.
 - 🐧 **Linux Users:** Use `setup.sh` for complete system dependency setup.
 
-### **1. Install Using Bash Script (Recommended for Linux)**
+### **1. Install Using Bash Script (Recommended for Linux Users)**
 
 ```sh
 chmod +x setup.sh && ./setup.sh
+```
+### **2. Install Using Ruby Script (Recommended for Ruby Fans , Who prefer a pure Ruby approach)**
+
+```sh
+ruby setup.rb
 ```
 
 ## License
