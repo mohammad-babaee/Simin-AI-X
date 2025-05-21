@@ -2,6 +2,8 @@
 # Developer : Mohammad Babaee
 # Разработчик : Мохаммад Бабаи
 
+**Important :** This Tools Is Your ( Text Based / CLI ) Friend That Provide Text Results In Your Terminal , Not For Generating Images Or Videos !
+
 🚀 **Simin AI Assistant** is a powerful **Ruby-based CLI AI tool** designed for hackers, security experts, and developers who love advanced **interactive terminal experiences**.
 
 ## Features
@@ -36,6 +38,10 @@ chmod +x setup.sh && ./setup.sh
 ```sh
 ruby setup.rb
 ```
+## Screenshot Of The App !
+
+![simin-ai-assistant](https://github.com/user-attachments/assets/200288fd-a581-4ad4-8908-0112758aec51)
+
 
 ## License
 
