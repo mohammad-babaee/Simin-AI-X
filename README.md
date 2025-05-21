@@ -1,4 +1,4 @@
-# SIMIN AI Assistant | CLI Version 
+# Simin AI X [ SIMIN AI Assistant ] CLI Version 
 # Developer : Mohammad Babaee
 # Разработчик : Мохаммад Бабаи
 
